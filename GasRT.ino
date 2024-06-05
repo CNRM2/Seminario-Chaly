@@ -21,11 +21,11 @@ const unsigned long SEND_DATA_INTERVAL = 1000; // 15 segundos en milisegundos
 
 // Define tus credenciales del proyecto Firebase
 #define WIFI_SSID "Megacable_KQURrFv"
-#define WIFI_PASSWORD "pbG5DSqLjhfXRyUrzn"
-#define API_KEY "AIzaSyA03Uw6_d7vZfrAP7RgtDt36gAAp5pMrQg"
-#define DATABASE_URL "https://gasrt-558de-default-rtdb.firebaseio.com"
-#define USER_EMAIL "jvaldezcazares@gmail.com"
-#define USER_PASSWORD "Al_175423"
+#define WIFI_PASSWORD ""
+#define API_KEY ""
+#define DATABASE_URL ""
+#define USER_EMAIL ""
+#define USER_PASSWORD ""
 
 void setup() {
   Serial.begin(115200);
